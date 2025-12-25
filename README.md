@@ -1,18 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm a multi-language, full-stack, cloud-native, cross-platform, theory-light, non-academic, exploring engineer-developer.
+## About Me
 
-<!--
-**1208nn/1208nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **multi-language, full-stack, cloud-native, cross-platform** engineer-developer with a practical, hands-on approach to software development.
 
-Here are some ideas to get you started:
+### What Defines My Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Theory-light approach**: Focus on practical solutions and real-world implementations
+- 🔧 **Non-academic style**: Learning through building and experimentation
+- 🌍 **Cross-platform expertise**: Comfortable working across different environments and technologies
+- ☁️ **Cloud-native mindset**: Building scalable, modern applications
+- 🔄 **Continuous explorer**: Always discovering new tools, languages, and methodologies
+
+---
+
+### Tech Stack & Interests
+
+- **Full-Stack Development**: Frontend, backend, and everything in between
+- **Multiple Languages**: Polyglot programmer comfortable with various programming paradigms
+- **Cloud Technologies**: Designing and deploying cloud-native solutions
+- **Cross-Platform Development**: Building applications that work seamlessly across platforms
+
+---
+
+<div align="center">
+  <i>Open to collaboration, learning, and building great software together!</i>
+</div>
