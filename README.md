@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a multi-language, full-stack, cloud-native, cross-platform, theory-light, non-academic, exploring engineer-developer.
+I'm a multi-language, full-stack, cloud-native, cross-platform, theory-light, non-academic, exploring scholar, engineer and developer.
 
 <!--
 **1208nn/1208nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
